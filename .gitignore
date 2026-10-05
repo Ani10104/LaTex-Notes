@@ -1,2 +1,11 @@
 ULYSSES/
+# LaTeX build output
 Extra/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Generated log
+indent.log
