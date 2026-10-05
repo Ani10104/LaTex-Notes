@@ -1,0 +1,75 @@
+%! TeX program = lualatex
+\documentclass[addpoints,12pt,a4paper]{exam}
+\usepackage{examduration}
+\usepackage{tcolorbox}
+\usepackage{tasks}
+\usepackage{multicol}
+\setlength{\columnsep}{0.5cm}
+\usepackage{luacode}
+\settasks{
+    label=(\Alph*),
+    label-width=2em,
+    item-indent=3em
+}
+\pointformat{}
+\marksnotpoints
+\totalformat{Total: \totalpoints}
+\graphicspath{ {./Images/} } 
+\newcommand{\incfig}[2][\linewidth]{%
+\begin{center}
+    \includegraphics[width=#1]{Images/#2.png}%
+\end{center}
+}
+\title{%
+  \vspace{-1.5cm}%
+  {\huge\textbf{Test 2 Set W}}\\[2mm]%
+  {\LARGE Physics}\\[2mm]%
+  {Date: {\datedate}}\\[3mm]%
+  {\large \textbf{Full Marks: \numpoints} \hfill  Class -- XI \hfill \textbf{Time: \examduration}}%
+  \vspace{3pt}%
+  \hrule\vspace{-2em}%
+}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\vspace{0.2em}
+
+\begin{center}
+	\begin{tcolorbox}
+		\begin{center}
+			\textbf{\large{General Instructions}}
+		\end{center}
+		\begin{enumerate}
+			\item \textbf{Negative Marking} is $-1$ for a single answer wrong
+			\item Use \textbf{blue} or \textbf{black} ink only.
+			\item Mobile phones, calculators, and other electronic devices are not permitted.
+			\item There is only Section A but in your OMR fill the questions 21 to 25 under Section B.
+		\end{enumerate}
+		\vspace{0.2em}
+	\end{tcolorbox}
+\end{center}
+
+\vspace{0.2em}
+
+\begin{center}
+	\fbox{\textbf{\Large SECTION A: Single Correct Answer Type}}
+\end{center}
+
+\vspace{1pt}
+
+\begin{multicols}{2}
+	\directlua{
+		selection_seed = 115
+		set_seed = 50
+		shufflequestions = true
+		shufflechoices = true
+		dofile("Modules/full-qgen.lua") }
+\end{multicols}
+
+\newpage
+\directlua{ dofile("Modules/answer-generator.lua") }
+
+\end{document}

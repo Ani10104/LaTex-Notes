@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240mm"
+   height="120mm"
+   viewBox="0 0 240 120"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="inclined-option-4.svg"
+   inkscape:export-filename="inclined-option-4.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="17.241379"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideAgain-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path4-7-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99437388"
+     inkscape:cx="283.59554"
+     inkscape:cy="183.02975"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     width="200mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1398"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       units="mm"
+       spacingx="1"
+       spacingy="1"
+       empspacing="4"
+       dotted="false"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-177)">
+    <g
+       id="g1"
+       transform="translate(20.864034,0.875084)"
+       inkscape:export-filename="inclined-option-4.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="font-variation-settings:'opsz' 32, 'wght' 100;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none"
+         d="M 98.981883,261.34746 H 151.39971 L 74.086576,216.71071"
+         id="path4" />
+      <path
+         style="font-variation-settings:'opsz' 32, 'wght' 100;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none"
+         id="path5"
+         sodipodi:type="arc"
+         sodipodi:cx="151.37466"
+         sodipodi:cy="261.33377"
+         sodipodi:rx="15.32806"
+         sodipodi:ry="15.850269"
+         sodipodi:start="3.1424511"
+         sodipodi:end="3.6509941"
+         sodipodi:arc-type="slice"
+         d="m 136.04661,261.32016 a 15.32806,15.850269 0 0 1 1.9461,-7.71585 l 13.38195,7.72946 z" />
+      <path
+         style="font-variation-settings:'opsz' 32, 'wght' 100;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#ArrowWideAgain-0)"
+         d="M 101.14947,225.22532 83.113643,214.81233"
+         id="path8" />
+      <path
+         style="font-variation-settings:'opsz' 32, 'wght' 100;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:url(#ArrowWideAgain-0)"
+         d="m 100.94992,225.16854 v 22.94002"
+         id="path9"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="font-variation-settings:'opsz' 32, 'wght' 100;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none"
+         id="rect2"
+         width="19.17638"
+         height="11.859889"
+         x="190.72549"
+         y="138.65329"
+         transform="matrix(0.86572438,0.50052102,-0.49947916,0.8663259,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.5861px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans, @opsz=32,wght=100';font-variation-settings:'opsz' 32, 'wght' 100;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none"
+         x="169.7926"
+         y="145.52269"
+         id="text7"
+         transform="rotate(30)"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="fill:#000000;stroke-width:0.750094"
+           x="169.7926"
+           y="145.52269">\large $F_1$</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;stroke-width:0.750094"
+           x="169.7926"
+           y="151.25531"
+           id="tspan8" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5861px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans, @opsz=32,wght=100';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 100;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none"
+         x="132.90408"
+         y="259.33136"
+         id="text14"
+         inkscape:export-filename="text14.pdf"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="fill:#000000;stroke-width:0.750094"
+           x="132.90408"
+           y="259.33136">\large $\theta$</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#000000;stroke-width:0.750094"
+           x="132.90408"
+           y="265.064"
+           id="tspan15" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5861px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans, @opsz=32,wght=100';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 100;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.750094;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-end:none"
+         x="100.94992"
+         y="254.95425"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           x="100.94992"
+           y="254.95425">\large $mg$</tspan><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           x="100.94992"
+           y="260.68689" /></text>
+    </g>
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>template.svg</inkscape:name>
+    <inkscape:author>Aniruddha</inkscape:author>
+    <inkscape:shortdesc>template for figures</inkscape:shortdesc>
+    <inkscape:date>2026-09-01</inkscape:date>
+    <inkscape:keywords>fig temo</inkscape:keywords>
+  </inkscape:templateinfo>
+</svg>

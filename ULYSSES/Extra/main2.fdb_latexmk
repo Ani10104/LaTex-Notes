@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1789941303.091 "main2.tex" "Extra/main2.pdf" "main2" 1789941303.22389 0
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1775415801 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1775415801 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1775415801 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1781213020 2328186 9ec7b368fc98594f99e11e44ae0b1aeb ""
+  "Extra/main2.aux" 1789941303.21678 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "main2.tex" 1789941302.64499 60 9f71a8f57bb8e498e074ee2c0ec086b1 ""
+  (generated)
+  "Extra/main2.aux"
+  "Extra/main2.log"
+  "Extra/main2.pdf"
+  (rewritten before read)
